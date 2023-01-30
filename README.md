@@ -1,7 +1,6 @@
 <a href="https://www.linkedin.com/in/daniilnaumovets/">
   <img align="left" alt="Naumovets Daniil LinkedIn" width="22px" src="https://cdn.tomondre.com/icons/linkedinn.svg" />
 </a>
-<br/>
 
 <div>
   
