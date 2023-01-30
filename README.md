@@ -5,7 +5,7 @@
 
 <div>
   
-  <img width="400px" align="right" src="https://sun9-1.userapi.com/impg/1ijbGpAkpT1vohjVhotMwofR9c-D-Xscjah3Nw/0gwTmBJ6-PE.jpg?size=545x545&quality=96&sign=2c6a437e401708a2547feb7939e74c85&type=album" />
+  <img width="400px" align="right" src="https://sun9-1.userapi.com/impg/1ijbGpAkpT1vohjVhotMwofR9c-D-Xscjah3Nw/0gwTmBJ6-PE.jpg?size=545x545&quality=96&sign=2c6a437e401708a2547feb7939e74c85&type=album" /></br>
   <h2>⚡A Quick Facts</h2>
   <ul>
     <li>🧐 I am studying at the Polytechnic University and preparing for the course "Introduction to java" from a large IT company VK</li>
