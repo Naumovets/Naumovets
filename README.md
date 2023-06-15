@@ -10,7 +10,7 @@
     <li>🧐 I am studying at the Polytechnic University and learning python Django</li>
     <li>👨‍💻 Most of my projects are available on my GitHub, but u're already here ^^</li>
     <li>📝 U can add me on <a href="https://www.linkedin.com/in/daniilnaumovets/">LinkedIn</a>.</li>
-    <li>💬 Contact me for backend or fullstack projects in <strong>Python,Django,DRF,PostgreSQL,JSON,Doker</strong>.</li>
+    <li>💬 Contact me for backend or fullstack projects in <strong>Python, Django, DRF, PostgreSQL, Doker</strong>.</li>
     <li>📙 Someday here will be my resume.</li>
     <li>🎉 Fun Fact: I'm trying to find a job.</li>
   </ul>
