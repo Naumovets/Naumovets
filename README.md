@@ -17,5 +17,8 @@
   <ul>
     <li>Email: naumovets.daniil2003@mail.ru</li>
     <li>LinkedIn <a href="https://www.linkedin.com/in/daniilnaumovets/">https://www.linkedin.com/in/daniilnaumovets/</a></li>
+    <li>Telegram <a href="https://t.me/daniilnaumovets">@daniilnaumovets</a></li>
+    <li>Телефон: +7 981 886 9388 </li>
+    
   </ul>
 </div>
