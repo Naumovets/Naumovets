@@ -9,7 +9,7 @@
   <ul>
     <li>👨‍💻 Опыт работы в 2 коммерческих проектах</li>
     <li>📝 Можете добавить меня в <a href="https://www.linkedin.com/in/daniilnaumovets/">LinkedIn</a>.</li>
-    <li>💬 Мой стек: <strong>python, fastAPI, django, DRF, sqlalchemy, pytest, postgresql, redis, celery, doker, nginx, git</strong>.</li>
+    <li>💬 Мой стек: <strong>go, python, fastAPI, django, DRF, sqlalchemy, pytest, postgresql, redis, celery, doker, nginx, git</strong>.</li>
     <li>📙 Имел опыт написания кода на vue.js и react.js</li>
     <li>🎉 Открыт к предложениям на позицию backend python разработчика</li>
   </ul>
