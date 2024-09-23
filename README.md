@@ -7,11 +7,11 @@
   <img width="400px" align="right" src="https://sun9-1.userapi.com/impg/1ijbGpAkpT1vohjVhotMwofR9c-D-Xscjah3Nw/0gwTmBJ6-PE.jpg?size=545x545&quality=96&sign=2c6a437e401708a2547feb7939e74c85&type=album" /></br>
   <h2>⚡Обо мне</h2>
   <ul>
-    <li>👨‍💻 Опыт работы в 2 коммерческих проектах</li>
+    <li>👨‍💻 Опыт работы в 3 коммерческих проектах</li>
     <li>📝 Можете добавить меня в <a href="https://www.linkedin.com/in/daniilnaumovets/">LinkedIn</a>.</li>
-    <li>💬 Мой стек: <strong>go, python, fastAPI, django, DRF, sqlalchemy, pytest, postgresql, redis, celery, doker, nginx, git</strong>.</li>
-    <li>📙 Имел опыт написания кода на vue.js и react.js</li>
-    <li>🎉 Открыт к предложениям на позицию backend python разработчика</li>
+    <li>💬 Мой стек: <strong>go, postgresql, redis, celery, doker, nginx, git</strong>.</li>
+    <li>📙 Имел опыт написания кода на python django / fastapi</li>
+    <li>🎉 Открыт к предложениям на позицию golang разработчика</li>
   </ul>
   <h2>👾 Для связи</h2>
   <ul>
@@ -19,6 +19,5 @@
     <li>LinkedIn <a href="https://www.linkedin.com/in/daniilnaumovets/">https://www.linkedin.com/in/daniilnaumovets/</a></li>
     <li>Telegram <a href="https://t.me/daniilnaumovets">@daniilnaumovets</a></li>
     <li>Телефон: +7 981 886 9388 </li>
-    
   </ul>
 </div>
